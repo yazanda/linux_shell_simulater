@@ -1,0 +1,8 @@
+total 68
+drwxrwxr-x 6 student student  4096 May  6 20:57 cmake-build-debug
+drwxrwxr-x 6 student student  4096 May  7 12:20 cmake-build-debug-coverage
+-rw-rw-r-- 1 student student   110 Apr 19 20:19 CMakeLists.txt
+-rwxrwxr-x 1 student student 27088 May  7 12:21 ex3
+-rw-rw-r-- 1 student student   232 May  7 12:21 file.txt
+-rw-rw-r-- 1 student student 21303 May  7 12:20 main.c
+-rw-r--r-- 1 student student     0 May  7 12:23 nohup.txt

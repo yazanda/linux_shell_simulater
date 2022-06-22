@@ -1,0 +1,93 @@
+1: ls
+2: cal
+3: ls|wc
+4: ls  |  wc
+5: ls
+6: ls|wc
+7: cal|wc
+8: echo yazan | wc
+9: echo yazan | wc -c
+10: ls
+11: sleep 2 &
+12: ps
+13: ps
+14: ls
+15: ls
+16: ls
+17: sleep 2
+18: ls
+19: ls  |  wc
+20: ls | sort | wc
+21: ls -l
+22: sleep 2&
+23: nohup ls -l
+24: nohup ls|wc
+25: cal
+26: ls | wc
+27: echo yazan | wc -c
+28: ls | sort | wc
+29: ls | wc | ls
+30: ls | sort |wc
+31: ls
+32: ls
+33: ls -l
+34: cal
+35: ls
+36: !22
+37: ls | sort | wc
+38: ls -l
+39: ls
+40: echo hello
+41: echo hello | wc -c
+42: echo yazan | wc
+43: echo yagcfdysnsgfg | wc
+44: nohup sleep 20 &
+45: ps
+46: sleep 20 &
+47: ps
+48: sleep 20 &
+49: sleep 5 &
+50: sleep 5 &
+51: sleep 20 &
+52: sleep 20 &
+53: sleep 20 &
+54: sleep 20 &
+55: sleep 20 &
+56: sleep 20 &
+57: sleep 10 &
+58: sleep 20 &
+59: ls
+60: ls
+61: ls
+62: ls | cal
+63: sleep 10 &
+64: sleep 5 &
+65: sleep 10 &
+66: sleep 10 &
+67: sleep 10 &
+68: ls -l
+69: ls -l
+70: echo "yazan" | wc
+71: echo y a z a n | wc
+72: ls
+73: ls -l
+74: sleep 20 &
+75: sleep 50 &
+76: sleep 20 &
+77: ls -l
+78: w
+79: ls
+80: history
+81: echo yazan | wc -c
+82: ls|sort|wc
+83: w|wc
+84: ls -l | sort
+85: ls -l | wc -c
+86: ps
+87: history
+88: ls | sort
+89: ls | sort | wc
+90: ls
+91: ls
+92: ls
+93: ls -l

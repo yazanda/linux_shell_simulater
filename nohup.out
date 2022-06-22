@@ -1,0 +1,8 @@
+cmake-build-debug
+cmake-build-debug-coverage
+CMakeLists.txt
+ex3
+ex3.c
+file.txt
+nohup.out
+nohup.txt
