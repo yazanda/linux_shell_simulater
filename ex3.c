@@ -1,7 +1,6 @@
 /*
  * Shell Simulator
  * Authored by Yazan Daefi
- * id: 323139923
  */
 
 #include <stdio.h>
