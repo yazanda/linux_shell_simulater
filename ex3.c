@@ -268,7 +268,7 @@ void commandPlay(char *input) {
             } else if (child == 0) { // the child's process.
                 if(backGround) {
                     //prctl(PR_SET_PDEATHSIG,SIGHUP); //when the process exits send sighup.
-                    raise(SIGCHLD);
+                    kill(SIGCHLD);
                 }
                 if (execvp(command[0], command) < 0) {
                     perror("execvp() error");
