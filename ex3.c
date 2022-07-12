@@ -57,7 +57,6 @@ void shellPlayer() {
         }
         backGround = 0; commandLength = 0;
         fgets(input, MAX_LENGTH, stdin);
-        fflush(stdin); //clear the buffer.
         input[strlen(input) - 1] = '\0'; //replace the '\n' by '\0'.
         if(strlen(input) == 0) continue; //enter case.
         parsing(input);
